@@ -1,0 +1,10 @@
+# This file was automatically created by BAMOE Canvas. Please don't modify it.
+name: Techxchange Kogito jBPM Profile
+iconUrl: >-
+  https://github.com/kiegroup/kie-sandbox-quarkus-accelerator/raw/0.0.0/quarkus-logo.png
+gitRepositoryUrl: https://github.com/timwuthenow/bamoe-canvas-quarkus-accelerator.git
+gitRepositoryGitRef: techxchange
+dmnDestinationFolder: src/main/resources/dmn
+bpmnDestinationFolder: src/main/resources/bpmn
+otherFilesDestinationFolder: src/main/resources/others
+appliedAt: '2024-12-10T18:37:42.593Z'
